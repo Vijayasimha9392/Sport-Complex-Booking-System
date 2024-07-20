@@ -85,6 +85,10 @@ Public-Side:
 •Search Facility
 •View Facility Details
 
+![scbs_facility_public_0](https://github.com/user-attachments/assets/a2c4a2b0-cf44-4bec-ae22-5bdb8699fd9d)
+
+
+
 Installation/Setup
 1. Download and Install local web server such as XAMPP.
 2. Open your XAMPP -> php, search php.ini file and Enable/Uncomment the GD Library.
