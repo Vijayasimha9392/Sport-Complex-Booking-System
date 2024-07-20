@@ -96,5 +96,5 @@ Installation/Setup
 8. Browse the Online Sports Complex Booking System in a browser. i.e. " http://localhost/scbs/. "
 
 Admin Access: 
-   Username: admin
-   Password: admin123
+   1. Username: admin
+   2. Password: admin123
