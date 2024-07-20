@@ -85,13 +85,9 @@ Public-Side:
 •Search Facility
 •View Facility Details
 
+Facility Page :
 ![scbs_facility_public_0](https://github.com/user-attachments/assets/a2c4a2b0-cf44-4bec-ae22-5bdb8699fd9d)
 
-
-![scbs_facility_public_0](https://github.com/user-attachments/assets/fd1f84d5-ffa9-40e2-af40-3f3a8721f317)
-
-
-![scbs_facility_public_0](https://github.com/user-attachments/assets/cc6b21f6-7fe0-4550-a640-14a3499b2279)
 
 Client Booking List:
 ![scbs_client_books](https://github.com/user-attachments/assets/aa6ec00d-7c1d-4194-8ace-4103a72f280d)
